@@ -6,9 +6,9 @@
 create a application for the movies
 
 ## Generated Files
-- `auth.py`
-- `middleware.py`
-- `security.py`
+- `docker-compose.yml`
+- `Dockerfile`
+- `.github/workflows/deploy.yml`
 
 ## How to Run
 ```bash
